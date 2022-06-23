@@ -7,7 +7,7 @@ The purpose of this analysis was to comparably figure out if there was anything 
 
 ## Results
  - How is the district summary affected?
-The overall passing % goes down slightly, because the amount of kids who pass math and reading are very similar count wise    compared to the set with the thomas 9th graders removed. and a majority of the data compiled from this still use the same    amount of passing students and the 461 missing from thomas make the data pool slightly smaller so if the data is smaller it will decrease the % amounts also.
+The overall passing % goes down slightlin the district, because the amount of kids who pass math and reading are very similar count wise    compared to the set with the thomas 9th graders removed. and a majority of the data compiled from this still use the same    amount of passing students and the 461 missing from thomas make the data pool slightly smaller so if the data is smaller it will decrease the % amounts also.
  - How is the school summary affected?
 the school summary changes as follows the first picture is the original summary and the second picture is the updated summary. The passing % at thomas high school drastically increase with the dropping of the 9th graders.
 ![image1](https://github.com/Ajsforlife/School_District_Analysis/blob/main/Pictures_challenge/pycity_original_summary.png)
